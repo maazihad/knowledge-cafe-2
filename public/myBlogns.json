@@ -1,0 +1,72 @@
+[
+   {
+      "id": 1,
+      "cover": "https://example.com/cover1.jpg",
+      "title": "Learning React",
+      "author_img": "https://example.com/author1.jpg",
+      "author": "John Doe",
+      "posted_date": "2024-05-01",
+      "reading_time": 5,
+      "hashtags": [
+         "#react",
+         "#javascript",
+         "#webdev"
+      ]
+   },
+   {
+      "id": 2,
+      "cover": "https://example.com/cover2.jpg",
+      "title": "Understanding TypeScript",
+      "author_img": "https://example.com/author2.jpg",
+      "author": "Jane Smith",
+      "posted_date": "2024-04-25",
+      "reading_time": 8,
+      "hashtags": [
+         "#typescript",
+         "#programming",
+         "#development"
+      ]
+   },
+   {
+      "id": 3,
+      "cover": "https://example.com/cover3.jpg",
+      "title": "CSS Grid vs Flexbox",
+      "author_img": "https://example.com/author3.jpg",
+      "author": "Alice Johnson",
+      "posted_date": "2024-05-15",
+      "reading_time": 7,
+      "hashtags": [
+         "#css",
+         "#grid",
+         "#flexbox"
+      ]
+   },
+   {
+      "id": 4,
+      "cover": "https://example.com/cover4.jpg",
+      "title": "Getting Started with Node.js",
+      "author_img": "https://example.com/author4.jpg",
+      "author": "Robert Brown",
+      "posted_date": "2024-05-20",
+      "reading_time": 10,
+      "hashtags": [
+         "#nodejs",
+         "#backend",
+         "#javascript"
+      ]
+   },
+   {
+      "id": 5,
+      "cover": "https://example.com/cover5.jpg",
+      "title": "Mastering Python for Data Science",
+      "author_img": "https://example.com/author5.jpg",
+      "author": "Emily Davis",
+      "posted_date": "2024-05-18",
+      "reading_time": 12,
+      "hashtags": [
+         "#python",
+         "#datascience",
+         "#machinelearning"
+      ]
+   }
+]
